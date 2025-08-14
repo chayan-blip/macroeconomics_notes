@@ -318,7 +318,7 @@
 
 
 # 📊 The IS-LM Model - Complete Macroeconomic Model for closed economy
-![alt text](image-9.png)
+![alt text](<img width="757" height="597" alt="image" src="https://github.com/user-attachments/assets/20d658a3-75cc-4b44-909e-47ed6e2e63f3" />)
 **Video Source**: Vidhi Kalra (Five Minute Economics)  
 **Published**: January 2021  
 **Duration**: Introduction to IS-LM fundamentals
