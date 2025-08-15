@@ -311,7 +311,12 @@ Difference between longrun (NAIRU) curve and short run curve (philips)
 
 
 ### Loanable Funds Market
+![alt text](image-20.png)
+The interest rate is determined in the loanable funds market, and the quantity of capital demanded varies with the interest rate. Thus, events in the loanable funds market and the demand for capital are interrelated. If the demand for capital increases to D2 in Panel (b), the demand for loanable funds is likely to increase as well. Panel (a) shows the result in the loanable funds market—a shift in the demand curve for loanable funds from D1 to D2 and an increase in the interest rate from r1 to r2. At r2, the quantity of capital demanded will be K2, as shown in Panel (b).
+
 ![alt text](image-11.png)
+A change that begins in the loanable funds market can affect the quantity of capital firms demand. Here, a decrease in consumer saving causes a shift in the supply of loanable funds from S1 to S2 in Panel (a). Assuming there is no change in the demand for capital, the quantity of capital demanded falls from K1 to K2 in Panel (b).
+
 
 - **Demand Side**: Borrowers seeking funds
 - **Supply Side**: Savers providing funds
