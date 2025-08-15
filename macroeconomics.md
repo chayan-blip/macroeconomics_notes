@@ -292,6 +292,7 @@ Difference between longrun (NAIRU) curve and short run curve (philips)
 
 ## 🎯 Monetary Policy Tools (1:25:00 - 1:30:00)
 ![alt text](image-10.png)
+![alt text](image-19.png)
 
 
 ### Three Fed Tools
