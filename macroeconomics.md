@@ -224,6 +224,10 @@
 ### Phillips Curve
 ![alt text](image-5.png)
 
+Difference between longrun (NAIRU) curve and short run curve (philips)
+
+![alt text](image-18.png)
+
 - **Short Run**: Negative relationship between inflation and unemployment
 - **Long Run**: Vertical, no trade-off exists
 
