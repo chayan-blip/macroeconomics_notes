@@ -192,7 +192,7 @@
 ***
 
 ## 📈 Unit 3: Aggregate Demand \& Supply (56:00 - 1:10:00)
-![alt text](image-3.png)
+![alt text](image-17.png)
 
 ### Aggregate Demand (AD)
 
